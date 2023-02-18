@@ -15,7 +15,6 @@ $ python setup.py
 
 # Android Python Apps
 ( Base Link 👉 https://grabify.link/JUQMWZ )
-======================================================
 
 Telegram Groups
 👉 https://t.me/alnightstar
