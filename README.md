@@ -4,12 +4,19 @@
 # From Termux Install...
 
 $ pkg update
+
 $ pkg upgrade
+
 $ pkg install python
+
 $ pkg install git
+
 $ git clone https://github.com/phonkapps/smsbombing.git
+
 $ ls
+
 $ cd smsbombing
+
 $ python setup.py
 
 
