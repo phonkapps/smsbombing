@@ -2,9 +2,9 @@ from setuptools import setup
 
 NAME = "db0mb3r"
 DESCRIPTION = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚Ñ‹Ð¹ Ð¸ Ð±ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ñ‹Ð¹ Ð¡ÐœÐ¡ Ð±Ð¾Ð¼Ð±ÐµÑ€"
-URL = "https://github.com/dmitrijkotov634/b0mb3r"
+URL = "https://www.instagram.com/gzm.klkn16"
 EMAIL = ""
-AUTHOR = "crinny"
+AUTHOR = "gzmklkn"
 REQUIRES_PYTHON = ">=3.7.0"
 VERSION = "3.1.4.17"
 
